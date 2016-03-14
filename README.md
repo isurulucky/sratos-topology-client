@@ -2,6 +2,8 @@
 
 A simple Topology client
 
+Initial implementation by Imesh Gunaratne (imesh@apache.org)
+
 Usage: 
 1. clone
 2. build using mvn clean install
